@@ -1,0 +1,33 @@
+{
+  "name": "@hyas/bootstrap",
+  "version": "0.1.0",
+  "description": "Bootstrap plugin for Hyas",
+  "main": "index.js",
+  "scripts": {
+    "clean:install": "shx rm -rf package-lock.json node_modules",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "auto-changelog -p && git add CHANGELOG.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gethyas/bootstrap.git"
+  },
+  "keywords": [
+    "hyas",
+    "hugo"
+  ],
+  "author": "Henk Verlinde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gethyas/bootstrap/issues"
+  },
+  "homepage": "https://github.com/gethyas/bootstrap#readme",
+  "devDependencies": {
+    "auto-changelog": "^2.4.0",
+    "shx": "^0.3.4"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.3.0-alpha1"
+  }
+}
