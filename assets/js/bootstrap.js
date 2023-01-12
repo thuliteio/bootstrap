@@ -1,9 +1,11 @@
 'use strict';
 
-// Import the whole library
+// Source: https://github.com/twbs/examples/blob/main/vite/src/js/main.js
+
+// Option A: Include all of Bootstrap
 // import 'bootstrap';
 
-// Import only the Bootstrap components we need
+// Option B: Include parts of Bootstrap
 import { Dropdown, Offcanvas, Popover } from 'bootstrap';
 
 // Create an example popover
