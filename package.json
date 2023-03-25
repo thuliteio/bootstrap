@@ -1,6 +1,6 @@
 {
   "name": "@hyas/bootstrap",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Bootstrap plugin for Hyas",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
     "shx": "^0.3.4"
   },
   "dependencies": {
-    "@popperjs/core": "^2.11.6",
-    "bootstrap": "^5.3.0-alpha1"
+    "@popperjs/core": "^2.11.7",
+    "bootstrap": "^5.3.0-alpha2"
   }
 }
