@@ -1,7 +1,7 @@
 {
   "name": "@hyas/bootstrap",
-  "version": "1.0.0",
-  "description": "Official Bootstrap plugin for Hyas",
+  "version": "1.0.1",
+  "description": "Hyas Bootstrap",
   "main": "index.js",
   "scripts": {
     "clean:install": "shx rm -rf package-lock.json node_modules",
