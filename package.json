@@ -1,6 +1,6 @@
 {
   "name": "@hyas/bootstrap",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hyas Bootstrap",
   "author": "Hyas",
   "license": "MIT",
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.0"
+    "bootstrap": "^5.3.2"
   },
   "engines": {
     "node": ">=16.12.0"
