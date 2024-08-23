@@ -1,4 +1,4 @@
-# @hyas/bootstrap
+# @thulite/bootstrap
 
 ## 1.1.1
 

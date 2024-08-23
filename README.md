@@ -1,12 +1,12 @@
 # Bootstrap
 
-Official Bootstrap integration for Hyas.
+Official Bootstrap integration for Thulite.
 
 ## Getting Started
 
-See the Hyas documentation:
+See the Thulite documentation:
 
-- [Bootstrap](https://docs.gethyas.com/guides/integrations/bootstrap/)
+- [Bootstrap](https://docs.thulite.io/guides/integrations/bootstrap/)
 
 ## Credits
 
