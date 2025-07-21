@@ -1,5 +1,11 @@
 # @thulite/bootstrap
 
+## 1.2.1
+
+### Patch Changes
+
+- [`ee32fda`](https://github.com/thuliteio/bootstrap/commit/ee32fda78fd0d88f993c8b18c16b6f0c158a56db) Thanks [@h-enk](https://github.com/h-enk)! - Bump dependencies to their latest versions
+
 ## 1.2.0
 
 ### Minor Changes
