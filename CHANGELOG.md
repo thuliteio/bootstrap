@@ -1,5 +1,11 @@
 # @thulite/bootstrap
 
+## 1.2.2
+
+### Patch Changes
+
+- [#10](https://github.com/thuliteio/bootstrap/pull/10) [`300f545`](https://github.com/thuliteio/bootstrap/commit/300f5455bdb75cdfae747b55cac83218b78b0a07) Thanks [@h-enk](https://github.com/h-enk)! - Update for new template system in Hugo v0.146.0
+
 ## 1.2.1
 
 ### Patch Changes
