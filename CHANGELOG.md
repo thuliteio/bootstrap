@@ -1,5 +1,11 @@
 # @thulite/bootstrap
 
+## 1.2.3
+
+### Patch Changes
+
+- [#12](https://github.com/thuliteio/bootstrap/pull/12) [`d613d9d`](https://github.com/thuliteio/bootstrap/commit/d613d9dd055fd1c3dde6234da659f1f65f780af4) Thanks [@h-enk](https://github.com/h-enk)! - Bump dependencies to their latest versions
+
 ## 1.2.2
 
 ### Patch Changes
