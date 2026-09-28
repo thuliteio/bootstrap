@@ -1,5 +1,11 @@
 # @thulite/bootstrap
 
+## 1.2.4
+
+### Patch Changes
+
+- chore: update devDependencies to latest versions
+
 ## 1.2.3
 
 ### Patch Changes
