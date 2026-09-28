@@ -6,7 +6,7 @@ Official Bootstrap integration for Thulite.
 
 See the Thulite documentation:
 
-- [Bootstrap](https://docs.thulite.io/guides/integrations/bootstrap/)
+- [Bootstrap](https://docs.thulite.io/thulite/basics/integrations/bootstrap/)
 
 ## Credits
 
